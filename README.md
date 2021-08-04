@@ -1,2 +1,2 @@
-# go-demo-app #demo-step-1
-go demo app #demo-step-1 demonstrate MySQL DB connection in simplest form. Improvements are done in comming steps.
+# go-demo-app #demo-step-2
+go demo app #demo-step-2 demonstrate improvement with respect to #demo-step-1. Here we will try to load constants from env file for local developments.
