@@ -1,4 +1,4 @@
-module github.com/joshiprashiddha/go-test-app
+module github.com/joshiprashiddha/go-demo-app
 
 go 1.15
 
